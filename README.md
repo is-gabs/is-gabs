@@ -1,6 +1,7 @@
 Hi, I'm a software developer and I love it.
 
-Mostly coding with python.
+Mostly building financial related applications in python.
+
 
 
 <!---
